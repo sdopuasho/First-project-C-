@@ -1,0 +1,38 @@
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Александр\Documents\Lab\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Александр\Documents\Lab\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\anglebov\Desktop\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\sdopuasho\Desktop\Бэкап флешки\РКИС\lab2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
